@@ -1,3 +1,3 @@
 ﻿# EC2-Stop-Scripts
 
-Add your instances in line 7 as strings, there's an instance in the list as example, and more can be added
+This Script has the instance IDs hardcoded in the lambda function.
